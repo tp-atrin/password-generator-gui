@@ -18,7 +18,7 @@ pip install tkinter pyperclip
 After you've installed Python and the libraries, you can clone this repository to your local machine using Git:
 
 ```
-git clone https://github.comtp-atrin/password-generator-gui.git
+git clone https://github.com/tp-atrin/password-generator-gui.git
 ```
 
 ## Usage
