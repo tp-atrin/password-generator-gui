@@ -27,7 +27,7 @@ Once you've cloned the repository, navigate to the project directory and run the
 
 ```
 cd password-generator-gui
-python pass-gen-gui.py
+python3 pass-gen-gui.py
 ```
 
 This will open the *GUI for the password generator* program. You can enter the desired length of your password, the number of uppercase and lowercase letters, the number of numbers, and the number of special characters you want to include. Then, click the "Generate" button to generate your password. Your password will be displayed on the screen and copied to your clipboard automatically.
